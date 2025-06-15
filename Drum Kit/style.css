@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(114, 111, 111);
+}
+h1{
+    color: blueviolet;
+    text-align: center;
+    font-size: 100px;
+}
+.a{
+    background-image: url(img/a.jpg);
+}
+.w{
+    background-image: url(img/a.jpg);
+}
+.s{
+    background-image: url(img/j.jpg);
+
+}
+.l{
+    background-image: url(img/s.jpg);
+
+}
+.j{
+    background-image: url(img/w.jpg);
+}
+.k{
+    background-image: url(img/a.jpg); 
+}
+.d{
+    background-image: url(img/s.jpg);
+    
+    
+}
+
+.container button{
+    font-size: 100px;
+    width: 200px;
+    height: 200px;
+    border: 15px solid red;
+    margin-left: 10px;
+    border-radius: 10px; 
+    background-size: cover;     /* Scale image to cover entire button */
+    background-position: center; /* Center the image inside the button */
+    background-repeat: no-repeat;  
+}
+
+.animation {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+}
